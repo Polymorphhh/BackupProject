@@ -1,0 +1,11 @@
+C:\Users\EMINE-PC\Documents\GitHub\BackupProject\BackupProject\bin\Debug\BackupProject.exe.config
+C:\Users\EMINE-PC\Documents\GitHub\BackupProject\BackupProject\bin\Debug\BackupProject.exe
+C:\Users\EMINE-PC\Documents\GitHub\BackupProject\BackupProject\bin\Debug\BackupProject.pdb
+C:\Users\EMINE-PC\Documents\GitHub\BackupProject\BackupProject\obj\Debug\BackupProject.csprojAssemblyReference.cache
+C:\Users\EMINE-PC\Documents\GitHub\BackupProject\BackupProject\obj\Debug\BackupProject.Properties.Resources.resources
+C:\Users\EMINE-PC\Documents\GitHub\BackupProject\BackupProject\obj\Debug\BackupProject.csproj.GenerateResource.cache
+C:\Users\EMINE-PC\Documents\GitHub\BackupProject\BackupProject\obj\Debug\BackupProject.csproj.CoreCompileInputs.cache
+C:\Users\EMINE-PC\Documents\GitHub\BackupProject\BackupProject\obj\Debug\BackupProject.exe
+C:\Users\EMINE-PC\Documents\GitHub\BackupProject\BackupProject\obj\Debug\BackupProject.pdb
+C:\Users\EMINE-PC\Documents\GitHub\BackupProject\BackupProject\obj\Debug\BackupProject.Accueil.resources
+C:\Users\EMINE-PC\Documents\GitHub\BackupProject\BackupProject\obj\Debug\BackupProject.Sauvegarde.resources

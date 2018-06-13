@@ -10,11 +10,19 @@ using System.Windows.Forms;
 
 namespace BackupProject
 {
-    public partial class Form1 : Form
+    public partial class Accueil : Form
     {
-        public Form1()
+        public Accueil()
         {
             InitializeComponent();
+        }
+
+        private void ajouter_sauvClick(object sender, EventArgs e)
+        {
+            Sauvegarde sauv = new Sauvegarde(this);
+            sauv.Show();
+
+            this.Hide();
         }
     }
 }
